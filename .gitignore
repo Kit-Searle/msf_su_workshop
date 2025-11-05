@@ -180,6 +180,10 @@ cython_debug/
 .cursorignore
 .cursorindexingignore
 
-data/v_b.zip
-data/v_i.zip
-data/v_t.zip
+
+data/v_b
+data/v_i
+data/v_t
+
+
+
