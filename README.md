@@ -10,7 +10,7 @@ Before you begin, make sure you have the following installed:
 - [GitHub Desktop](https://github.com/apps/desktop) 
 
 ---
-### Step 1: Open Anaconda Prompt
+### Step 1: GitHub Desktop
 
 Launch GitHub Desktop and clone the repsoitery. Use file -> Clone repository -> https://github.com/Kit-Searle/msf_su_workshop.git
 
